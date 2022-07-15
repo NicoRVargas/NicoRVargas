@@ -19,7 +19,9 @@
   <img align="center" alt="Nico-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nico-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Nico-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" src="https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/FragrantSorrowfulLeafbird-size_restricted.gif" width="200" height="110" />
+  <a href="https://www.youtube.com/watch?v=SHvhps47Lmc&ab_channel=GearsforBreakfast" target="_blank">
+    <img src="https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/FragrantSorrowfulLeafbird-size_restricted.gif"/>
+  </a>
 </div>
 
 
