@@ -10,7 +10,7 @@
 ## My github stats:
 <div align="center">
   <a href="https://github.com/NicoRVargas">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NicoRVargas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NicoRVargas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoRVargas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@
   <img align="center" alt="Nico-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Nico-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <a href="https://www.youtube.com/watch?v=SHvhps47Lmc&ab_channel=GearsforBreakfast" target="_blank">
-    <img src="https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/FragrantSorrowfulLeafbird-size_restricted.gif"/>
+    <img align="right" height="110" widht"200" src="https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/FragrantSorrowfulLeafbird-size_restricted.gif"/>
   </a>
 </div>
 
