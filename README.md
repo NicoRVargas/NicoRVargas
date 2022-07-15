@@ -15,11 +15,12 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Nico-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nico-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nico-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Nico-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Nico-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
+
   <a href="https://www.youtube.com/watch?v=SHvhps47Lmc&ab_channel=GearsforBreakfast" target="_blank">
     <img align="right" height="110" widht"200" src="https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/FragrantSorrowfulLeafbird-size_restricted.gif"/>
   </a>
