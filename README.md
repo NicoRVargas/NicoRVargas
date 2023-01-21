@@ -3,7 +3,6 @@
 ### Howami / Some points about me:
 * I am from Brazil ![1f1e7-1f1f7](https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/1f1e7-1f1f7.png);
 * Was born in 11 february 2004 (18 years) ![images/babyyoda.png](https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/babyyoda.png);
-* I'm actually finishing high school (Last year) ![[images/books.png]](https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/books.png);
 * Studying to pass in computer science school ![[https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/cafepic.png](https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/cafepic.png)](https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/chapeufacul.png); 
 * Love Coffee and technology ![https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/cafepic.png](https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/cafepic.png).
 
