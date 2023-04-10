@@ -3,7 +3,7 @@
 ### Howami / Some points about me:
 * I am from Brazil ![1f1e7-1f1f7](https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/1f1e7-1f1f7.png);
 * Was born in 11 february 2004 (19 years) ![images/babyyoda.png](https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/babyyoda.png);
-* Doing Analysis and Systems Development at UNISINOS and Big Data and Analytical Intelligence at UNIASSEVI![[https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/cafepic.png](https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/cafepic.png)](https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/chapeufacul.png); 
+* Doing Analysis and Systems Development at UNISINOS and Big Data and Analytical Intelligence at UNIASSELVI![[https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/cafepic.png](https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/cafepic.png)](https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/chapeufacul.png); 
 * Love Coffee and technology ![https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/cafepic.png](https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/cafepic.png).
 
 ## My github stats:
