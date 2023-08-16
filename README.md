@@ -3,8 +3,8 @@
 ### Howami / Some points about me:
 * I am from Brazil ![1f1e7-1f1f7](https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/1f1e7-1f1f7.png);
 * Was born in 11 february 2004 (19 years) ![images/babyyoda.png](https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/babyyoda.png);
-* 🏫 I am a Junior at Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)
-* 🧑‍🎓 I’m currently learning: Computer Engineering (1/10)
+* I am a Junior at Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG) 🏫 
+* I’m currently learning: Computer Engineering (1/10) 🧑‍🎓
 * Love Coffee and technology ![https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/cafepic.png](https://raw.githubusercontent.com/NicoRVargas/NicoRVargas/main/images/cafepic.png).
 
 ## My github stats:
